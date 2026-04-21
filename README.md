@@ -2,7 +2,7 @@
 
 This is an automatic SBA template for Ghana schools.
 
-SBA simply means School basic Assessment
+SBA simply means School Base Assessment
 You can use EXAMs_F1A_1ST_2019_20.xlsx as a template
 It contains all subjects studied at the JHS level.
 Modify Subjects Name as you wish
