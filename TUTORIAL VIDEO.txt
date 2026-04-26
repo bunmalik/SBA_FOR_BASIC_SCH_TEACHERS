@@ -1,0 +1,81 @@
+Hello and welcome!
+Today, I'll show you how the "Automatic Assessment and Report Cards" software works. 
+This software is designed for Primary, J.H.S, and S.H.S teachers. 
+
+
+STEP 1: DOWNLOAD & OPEN (15 seconds)
+Download and open the Excel file from the link bellow:
+https://github.com/bunmalik/SBA_FOR_BASIC_SCH_TEACHERS
+
+Open the file
+You'll see 4 worksheets (PRIMARY_INFO, SETTINGS, ASSESSMENT AND REPORT_CARD) pages. 
+Each has a specific purpose.
+
+
+STEP 2: ADD STUDENTS & SUBJECTS (45 seconds)
+Go to the "PRIMARY_INFO" worksheet.
+
+Here, you need to add:
+- Student names and genders
+- Subject names and teachers
+- students results (INDIV. TEST, "GROUP WORK", CLASS TEST, PROJECT, END OF TERM EXAMS)		
+
+
+Important: The software supports only 9 subjects.
+You can type directly or copy and paste from another source.
+
+STEP 3: SETTINGS (20 seconds)
+Go to the "SETTINGS" sheet.
+Fill in your school information.
+Note: Subject information is automatically loaded from the PRIMARY_INFO page.
+
+STEP 4: ENTER RESULTS (60 seconds)
+Go to the "ASSESSMENT" sheet to input student results.
+Good news: Student names are already transferred automatically.
+You can type results directly or copy and paste from another source.
+
+⚠️ Warning: If pasting, make sure rows match the student names correctly.
+Repeat this process for all subjects.
+
+
+STEP 5: PRINT REPORT CARDS (90 seconds)
+Go to the "REPORT_CARD" page after entering all results.
+Double-check that all results are correct before printing.
+
+Now, let's print:
+1. First, upload your school logo/badge
+2. To print one student: Select the student name
+3. To print all: Click "Print Report" button
+
+You can save all reports as PDFs.
+Watch how it automatically fills each student's report card.
+
+⚠️ Important: After clicking print, it will process ALL report cards.
+   There's a STOP button if you need to cancel.
+🔹 If you don't have a printer: Choose "Save as PDF" and print later.
+
+DEMONSTRATION WALKTHROUGH (30 seconds)
+Let me show you the process:
+
+- Select a student → Report card fills automatically
+- Click Print Report → Sends to printer
+- Click Save as PDF → Choose your folder
+
+Example: 58 report cards processed successfully.
+Let me show you the saved files...
+
+CLOSING (30 seconds)
+Please LIKE and SHARE this video if you found it helpful!
+
+📞 For Customization or Support:
+   Phone: 0555519160 / 0501374117
+   Email: bunmalik11@gmail.com
+
+💰 To support this project, contact me on the numbers above.
+
+Thank you for watching!
+Goodbye!
+
+
+
+
