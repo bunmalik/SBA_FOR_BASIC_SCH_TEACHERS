@@ -1,4 +1,0 @@
-Important!
-After clicking on the print button, it will process ALL report cards till it gets to the end.
-To Stop OR cancel the printing or saving as PDFs, 
-Click on the STOP PRINTING button.

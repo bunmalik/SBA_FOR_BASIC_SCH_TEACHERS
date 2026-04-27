@@ -1,5 +1,0 @@
-Second Option.
-Print all results at a click.
-To print all results: Click on the "Print All Report Cards" button.
-If you are connected to a printer, Choose "Yes" and print all results.
-Watch how it automatically fills each student's report card and print.
