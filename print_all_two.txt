@@ -1,0 +1,5 @@
+If you don't have a printer: Choose NO. 
+This will "Save as PDF".
+Choose your folder and print later.
+Watch how it automatically fills the report cards and save to PDF.
+This PDFs can later be printed or send to parents through emails.

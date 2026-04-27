@@ -1,77 +1,92 @@
 Hello and welcome!
-Today, I'll show you how the "Automatic Assessment and Report Cards" software works. 
-This software is designed for Primary, J.H.S, and S.H.S teachers. 
+Today, I'll show you how my "Automatic Assessment and Report Cards" software works...
+This software is designed for Primary, JHS, and SHS teachers. 
+It is an Excel-based software, so get yourself familiar with excel and enjoy using it.
+
+STEP 1: DOWNLOAD & OPEN FILE.
+Download and open the Excel file from the link provided.
+From your preferred browser. I am using Mozila Firefox.
+
+Extract the file to your preferred destination.
+Wait till the download is done completly.
+Extract the zip file to your prefered location.
+
+You'll see 4 worksheets.
+SETTINGS: Where all information are captured.
+DATA: Where students results are entered.
+ASSESSMENT: Where are the calculations are perform.
+AND REPORT CARD: Where report cards are printed or saved as pdf. 
+Each sheet has a specific purpose.
+
+STEP 2: GO TO SETTINGS Page.
+Fill in your School information and, Class information.
+Fill in the Term Information as well.
+Feel free to edit any of the white areas.
+
+Fill in Test Scores percentages: 
+  Please enter the test names successfully without blanks.
+  INDIVIDUAL TEST, GROUP WORK, CLASS TEST and PROJECT forms the continuous assessment and each is 15 marks and their total scaled to 50%.
+  EXAM SCORE is the the END OF TERM EXAMS is 100 marks and scaled to 50%.
+  Feel free to change the continuous assessment percentages.
+  And the test scales and exams scales to your preferred percentages.
+Fill in Subject Information.
+ Feel free to change subject names to your preferred ones.
+ Enter up to 9 different subjects OR less.
+ Please enter subjects successively without blanks.
 
 
-STEP 1: DOWNLOAD & OPEN (15 seconds)
-Download and open the Excel file from the link bellow:
-https://github.com/bunmalik/SBA_FOR_BASIC_SCH_TEACHERS
-
-Open the file
-You'll see 4 worksheets (PRIMARY_INFO, SETTINGS, ASSESSMENT AND REPORT_CARD) pages. 
-Each has a specific purpose.
-
-
-STEP 2: ADD STUDENTS & SUBJECTS (45 seconds)
-Go to the "PRIMARY_INFO" worksheet.
-
-Here, you need to add:
-- Student names and genders
-- Subject names and teachers
-- students results (INDIV. TEST, "GROUP WORK", CLASS TEST, PROJECT, END OF TERM EXAMS)		
-
-
-Important: The software supports only 9 subjects.
-You can type directly or copy and paste from another source.
-
-STEP 3: SETTINGS (20 seconds)
-Go to the "SETTINGS" sheet.
-Fill in your school information.
-Note: Subject information is automatically loaded from the PRIMARY_INFO page.
-
-STEP 4: ENTER RESULTS (60 seconds)
-Go to the "ASSESSMENT" sheet to input student results.
-Good news: Student names are already transferred automatically.
-You can type results directly or copy and paste from another source.
-
-⚠️ Warning: If pasting, make sure rows match the student names correctly.
+STEP 3: Go to the DATA worksheet: ENTER STUDENTS' RESULTS.
+Here, You need to fill Student names and genders.
+Fill the Students results for the INDIVIDUAL TEST, GROUP WORK, CLASS TEST, PROJECT and END OF TERM EXAMS for all the subjects.
+Click on the button "Enter Student Marks" to add or edit a single student results.		
+NOTE: You can type directly in white areas or copy and paste the results from another source into the white areas.
+Warning! If pasting, make sure rows match the student names correctly.
 Repeat this process for all subjects.
 
+STEP 4: Go to the ASSESSMENT worksheet or Page.
+Good news: Student names and results scores are already transferred automatically.
+Likewise, the continues assessment test scales, exams scaled scores, the overal total, subjects positions and the Grades, 
+have been automatically calculated without any effort.
+You cannot input any data on this worksheet because it is protected. If there is any changes, kindly return to the DATA worksheet.
+Double-check that all results are correct: The continuous assessment scores AND exams, Positions and Grades.
+You can find the OVERAL TOTAL SCORES, RAW SCORES, AGGREGATES AND CLASS POSITIONS as the tail end of the worksheet.
 
-STEP 5: PRINT REPORT CARDS (90 seconds)
-Go to the "REPORT_CARD" page after entering all results.
-Double-check that all results are correct before printing.
 
-Now, let's print:
-1. First, upload your school logo/badge
-2. To print one student: Select the student name
-3. To print all: Click "Print Report" button
+STEP 5: Go to the "REPORT CARD" page.
+Go to the "REPORT CARD" page after entering all results correctly.
+Click on the "Upload Logo" Button to upload your school logo or badge.
+The supported mage Files include .jpg; .jpeg; .png; .gif, and .bmp;...
 
-You can save all reports as PDFs.
-Watch how it automatically fills each student's report card.
 
-⚠️ Important: After clicking print, it will process ALL report cards.
-   There's a STOP button if you need to cancel.
-🔹 If you don't have a printer: Choose "Save as PDF" and print later.
+Now, let's print: 
+Here, you have 2 options. Let me show you the process.
+ 
+First Option: To print a single student results.
+   Select a student → Report card fills automatically.
+   Press Ctrl + P or go to file and print.
 
-DEMONSTRATION WALKTHROUGH (30 seconds)
-Let me show you the process:
+Second Option: Print all results at a click.
+To print all results: Click on the "Print All Report Cards" button.
+If you are connected to a printer, Choose "Yes" and print all results.
+Watch how it automatically fills each student's report card and print.
 
-- Select a student → Report card fills automatically
-- Click Print Report → Sends to printer
-- Click Save as PDF → Choose your folder
+If you don't have a printer: Choose "Save as PDF", Choose your folder and print later.
+Watch how it automatically fills each student's report card and print or save to PDF.
 
-Example: 58 report cards processed successfully.
-Let me show you the saved files...
+Important: After clicking print, it will process ALL report cards.
+There's a STOP PRINTING button if you need to cancel.
 
-CLOSING (30 seconds)
+58 report cards processed successfully.
+Let me show you the saved files
+
+
 Please LIKE and SHARE this video if you found it helpful!
 
 📞 For Customization or Support:
-   Phone: 0555519160 / 0501374117
-   Email: bunmalik11@gmail.com
+   Phone: 0555519160 / 0501374117.
+   Email: bunmalik11@gmail.com.
 
-💰 To support this project, contact me on the numbers above.
+To support this project, contact me on the numbers above.
 
 Thank you for watching!
 Goodbye!

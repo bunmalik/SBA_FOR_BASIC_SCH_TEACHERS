@@ -1,0 +1,8 @@
+Now, let's print. 
+Here, you have 2 options. 
+Let me show you the process.
+ 
+First Option.
+To print a single student results.
+Select a student → Report card fills automatically.
+Press Ctrl + P or go to file and print.
